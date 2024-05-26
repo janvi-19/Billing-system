@@ -1,0 +1,22 @@
+	 ** Welcome Customer **
+ 
+ Bill Number : 8484
+ Customer Name : Yogesh Sharma
+ Phone Number : 3421578643
+ ====================================
+ Products		QTY		Price
+ ====================================
+ Bath Soap		1		20
+ Face Cream		1		60
+ Tea		1		50
+ Oil		1		100
+ Rice		1		70
+ Maaza		1		20
+ Pepsi		2		160
+ ------------------------------------
+ Cosmetic Tax			4.0 Rs
+ Grocery Tax			17.6 Rs
+ Cold drink Tax			3.6 Rs
+
+ Total Bill			505 Rs
+ ------------------------------------
